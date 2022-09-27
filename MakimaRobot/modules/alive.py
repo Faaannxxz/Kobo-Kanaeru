@@ -14,8 +14,8 @@ from MakimaRobot import OWNER_USERNAME, SUPPORT_CHAT, dispatcher
 from MakimaRobot import telethn as tbot
 
 PHOTO = [
-    "https://te.legra.ph/file/54acfd8a4213fabf997b2.jpg",
-    "https://te.legra.ph/file/6dfc25a7a32137e40eb4e.jpg",
+    "https://telegra.ph/file/b7cd9c1ff6cbc86413fbe.jpg",
+    "https://telegra.ph/file/b7cd9c1ff6cbc86413fbe.jpg",
 ]
 
 
