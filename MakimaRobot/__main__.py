@@ -1,7 +1,7 @@
-# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
-# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
-# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
-# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @deadlyxrd
+# sᴜᴘᴘᴏʀᴛ :- @animeloversindoacs
+# ᴜᴘᴅᴀᴛᴇs :- @pendragon_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @deadlyxrd
 
 import importlib
 import re
@@ -89,23 +89,23 @@ PM_START_TEXT = """
 *ʜᴇʏ* {}, *ᴍʏ ɴᴀᴍᴇ ɪs* {}! ㅤ
 ɪ ᴀᴍ ᴀ ᴅᴇᴠɪʟ ʜᴜɴᴛᴇʀ ғʀᴏᴍ ᴄʜᴀɪɴsᴀᴡ ᴍᴀɴ.
 ɪ ᴀᴍ  ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ,ʙᴜɪʟᴛ ғᴏʀ ᴡᴇᴇʙs.
-ɪ ᴀᴍ sᴘᴇᴄɪᴀʟɪᴢᴇᴅ ɪɴ ᴍᴀɴᴀɢɪɴɢ ɢʀᴏᴜᴘs ᴏғ ᴀɴɪᴍᴇ ᴄᴏᴍᴍᴜɴɪᴛɪᴇs[❃](https://telegra.ph/file/2e306bd8e0a4e7066ad4b.jpg)!
+ɪ ᴀᴍ sᴘᴇᴄɪᴀʟɪᴢᴇᴅ ɪɴ ᴍᴀɴᴀɢɪɴɢ ɢʀᴏᴜᴘs ᴏғ ᴀɴɪᴍᴇ ᴄᴏᴍᴍᴜɴɪᴛɪᴇs[❃](https://telegra.ph/file/b7cd9c1ff6cbc86413fbe.jpg)!
 """
 
 buttons2 = [
     [
         InlineKeyboardButton(
-            text="Start me🤖",
+            text="𝙎𝙏𝘼𝙍𝙏 𝙈𝙀",
             url=f"https://t.me/{BOT_USERNAME}",
         ),
         InlineKeyboardButton(
-            text="Commands and help💡",
+            text="𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 & 𝙃𝙀𝙇𝙋",
             url=f"http://t.me/{BOT_USERNAME}?start=help",
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Bot support🚑", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="𝘽𝙊𝙏 𝙎𝙐𝙋𝙋𝙊𝙍𝙏", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
 ]
@@ -114,24 +114,24 @@ buttons2 = [
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ 𝘼𝙙𝙙 𝙈𝘼𝙆𝙄𝙈𝘼 𝙏𝙤 𝙈𝙖𝙣𝙖𝙜𝙚 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ➕",
+            text="➕ 𝘼𝙙𝙙 𝙆𝙊𝘽𝙊 𝙆𝘼𝙉𝘼𝙀𝙍𝙐 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥𝙨 ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(
-            text="🛠️𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url=f"https://t.me/kakashi_bots_updates"
+            text="𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎", url=f"https://t.me/pendragon_bots_updates"
         ),
-        InlineKeyboardButton(text="💬𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(
-            text="Vc music 🎧", url=f"https://t.me/{BOT_USERNAME}?start=vhelp"
+            text="𝙑𝘾 𝙈𝙐𝙎𝙄𝘾", url=f"https://t.me/{BOT_USERNAME}?start=vhelp"
         ),
-        InlineKeyboardButton(text="🌐𝙊𝙪𝙧 𝙉𝙚𝙩𝙬𝙤𝙧𝙠", url=f"https://t.me/Otaku_Binge"),
+        InlineKeyboardButton(text="𝙊𝙐𝙍 𝙉𝙀𝙏𝙒𝙊𝙍𝙆", url=f"https://t.me/deadlyxrd"),
     ],
     [
-        InlineKeyboardButton(text="💡𝙃𝙚𝙡𝙥 𝙖𝙣𝙙 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨", callback_data="help_back"),
+        InlineKeyboardButton(text="𝙃𝙀𝙇𝙋 & 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎", callback_data="help_back"),
     ],
 ]
 
@@ -156,8 +156,8 @@ HELP_STRINGS = f"""
 DONATE_STRING = """
 
 Heya, glad to hear you want to donate!
-Makima is hosted on one of BINGE Servers and doesn't require any donations as of now but You can donate to the original writer of the Base code, 𝓚𝒶кคѕⒽᎥ ђ𝔞𝓉ᗩЌ𝒆
-There is a way of supporting me; [contact me](https://t.me/SIXTH_H0KAGE).
+𝙆𝙊𝘽𝙊 𝙆𝘼𝙉𝘼𝙀𝙍𝙐 is hosted on one of 𝙋𝙀𝙉𝘿𝙍𝘼𝙂𝙊𝙉 Servers and doesn't require any donations as of now but You can donate to the original writer of the Base code, 𝙋𝙀𝙉𝘿𝙍𝘼𝙂𝙊𝙉
+There is a way of supporting me; [contact me](https://t.me/deadlyxrd).
 """
 
 IMPORTED = {}
