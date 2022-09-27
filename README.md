@@ -1,11 +1,11 @@
-# Makima Robot
-![Makima](https://telegra.ph/file/073b97d2685d370a364da.jpg)
+# 𝙆𝙊𝘽𝙊 𝙆𝘼𝙉𝘼𝙀𝙍𝙐 𝙍𝙊𝘽𝙊𝙏
+![Makima](https://telegra.ph/file/b7cd9c1ff6cbc86413fbe.jpg)
 # Makima
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/729d680436084e0a9cb16f0e875dc097)](https://www.codacy.com/gh/otakubinge/Makima-Robot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=otakubinge/Makima-Robot&amp;utm_campaign=Badge_Grade_Settings)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/otakubinge/Makima-Robot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/kakashi_bots_updates)
 
 It is a Telegram group management bot running on python3 with a sqlalchemy database and the theme persona to make Makima is suitable for Anime and Manga group chats.
 
-Can be found on telegram as [Makima](https://t.me/Makima_UltraProxbot).
+Can be found on telegram as [𝙆𝙤𝙗𝙤 𝙆𝙖𝙣𝙖𝙚𝙧𝙪](Https://t.me/Kobokanaaeeru_bot).
 
 
 <h4><p align="center"> Makima Robot </p></h4>
